@@ -1,0 +1,15 @@
+D:\GeekBrains\Seminar4\Домашнее Задание 4\Задача 27\bin\Debug\net6.0\Задача 27.exe
+D:\GeekBrains\Seminar4\Домашнее Задание 4\Задача 27\bin\Debug\net6.0\Задача 27.deps.json
+D:\GeekBrains\Seminar4\Домашнее Задание 4\Задача 27\bin\Debug\net6.0\Задача 27.runtimeconfig.json
+D:\GeekBrains\Seminar4\Домашнее Задание 4\Задача 27\bin\Debug\net6.0\Задача 27.dll
+D:\GeekBrains\Seminar4\Домашнее Задание 4\Задача 27\bin\Debug\net6.0\Задача 27.pdb
+D:\GeekBrains\Seminar4\Домашнее Задание 4\Задача 27\obj\Debug\net6.0\Задача 27.csproj.AssemblyReference.cache
+D:\GeekBrains\Seminar4\Домашнее Задание 4\Задача 27\obj\Debug\net6.0\Задача 27.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Seminar4\Домашнее Задание 4\Задача 27\obj\Debug\net6.0\Задача 27.AssemblyInfoInputs.cache
+D:\GeekBrains\Seminar4\Домашнее Задание 4\Задача 27\obj\Debug\net6.0\Задача 27.AssemblyInfo.cs
+D:\GeekBrains\Seminar4\Домашнее Задание 4\Задача 27\obj\Debug\net6.0\Задача 27.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Seminar4\Домашнее Задание 4\Задача 27\obj\Debug\net6.0\Задача 27.dll
+D:\GeekBrains\Seminar4\Домашнее Задание 4\Задача 27\obj\Debug\net6.0\refint\Задача 27.dll
+D:\GeekBrains\Seminar4\Домашнее Задание 4\Задача 27\obj\Debug\net6.0\Задача 27.pdb
+D:\GeekBrains\Seminar4\Домашнее Задание 4\Задача 27\obj\Debug\net6.0\Задача 27.genruntimeconfig.cache
+D:\GeekBrains\Seminar4\Домашнее Задание 4\Задача 27\obj\Debug\net6.0\ref\Задача 27.dll
